@@ -1,0 +1,25 @@
+# Ttime
+- Hour 1 → 12:00 AM = Sleep
+- Hour 2 → 1:00 AM = Sleep
+- Hour 3 → 2:00 AM = Sleep
+- Hour 4 → 3:00 AM = Sleep
+- Hour 5 → 4:00 AM = Sleep
+- Hour 6 → 5:00 AM = Sleep
+- Hour 7 → 6:00 AM = Sleep
+- Hour 8 → 7:00 AM = Sleep
+- Hour 9 → 8:00 AM = Sleep
+- Hour 10 → 9:00 AM = Prep
+- Hour 11 → 10:00 AM = Prep
+- Hour 12 → 11:00 AM = Prep
+- Hour 13 → 12:00 PM = Prep
+- Hour 14 → 1:00 PM = open
+- Hour 15 → 2:00 PM = open
+- Hour 16 → 3:00 PM = open
+- Hour 17 → 4:00 PM = open
+- Hour 18 → 5:00 PM = open
+- Hour 19 → 6:00 PM = lunch
+- Hour 20 → 7:00 PM = open
+- Hour 21 → 8:00 PM = open
+- Hour 22 → 9:00 PM = open
+- Hour 23 → 10:00 PM = Closing
+- Hour 24 → 11:00 PM = Dinner

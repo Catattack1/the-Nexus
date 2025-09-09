@@ -1,0 +1,1 @@
+Can you create a DND item that is a artifact that became a family heirloom to a merchant family via connections to the world throne and funding the army the weapon is a naginata (it uses the stats of a glave)

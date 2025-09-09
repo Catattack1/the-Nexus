@@ -1,0 +1,5 @@
+- **Description**: A stretch of beach serving as a graveyard for sailors and pirates, marked by makeshift tombstones and offerings left by superstitious seafarers.
+- **Opportunities**:
+    - **Cursed Items and Relics**: Grave-robbing could yield valuable but potentially cursed items.
+    - **Restless Spirits**: Interacting with the graves might awaken the spirits, leading to combat, quests to lay them to rest, or receiving their blessings.
+    - **Maps and Journals**: Discovering a buried chest or grave could reveal maps and journals pointing to hidden treasures or dangerous locations on the island.
